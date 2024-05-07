@@ -1,1 +1,33 @@
+* {
+    box-sizing: border-box;
+}
 
+main{
+
+    .portada{
+        width: 100%;
+        height: 500px;
+        
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+    }    
+    
+    
+        
+    
+    .categorias{
+        background-color: yellow;
+        ul{
+                list-style: none;
+                display: flex;
+                justify-content: center;
+          
+        }
+        
+    }
+
+
+}
