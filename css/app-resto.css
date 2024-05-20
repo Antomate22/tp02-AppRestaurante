@@ -117,17 +117,17 @@ header {
 main{
     height: 40%;
     width: 100%;
-    background-color: #ffffff;
    & .resto{
          height: 500px;
          width:100%;
          display: flex;
+         flex-wrap: wrap;
          padding: 2%;
           background-color: rgb(158, 137, 137);  
 
          & .item-resto{
-            height: 100%;
-            width: 100%;
+            height: 300px;
+            width: 600px;
        
           }
         }
