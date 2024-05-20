@@ -107,6 +107,7 @@ header {
             justify-content: center;
             transition: all transform 200ms ease-in-out; 
             &.itemcat:hover{
+                
                 transform: scale(1.1);
             }
         }
