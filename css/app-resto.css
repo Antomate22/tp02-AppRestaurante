@@ -17,7 +17,7 @@
 }
 
 :root{
-    /*se declaran variables para asignarlas en propiedades con var("nombre de la variable")*/
+    /*ses declaran variables para asignarlas en propiedades con var("nombre de la variable")*/
     --gris-txt::rgb(99,99,99);
     --main-txt:#3700b3;
     --main-bg:#6200ee;
