@@ -125,7 +125,7 @@ main{
             border-top-left-radius: 15px;
             border-end-start-radius: 15px;
             overflow: hidden;
-            img{
+            & img{
                 height: 100%;
                 width: 40%;
                 object-fit: cover;  
