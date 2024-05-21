@@ -123,6 +123,16 @@ main{
           .item-resto{
             height: 200px;
             width: 500px;
+            border-top-left-radius: 15px;
+            border-end-start-radius: 15px;
+            overflow: hidden;
+            img {
+                height: 100%;
+                width: 40%;
+                object-fit: cover;  
+                object-position: 20%;
+
+            }
        
           }
         }
