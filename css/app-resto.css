@@ -129,9 +129,9 @@ main {
         flex-wrap: wrap;
         padding: 2%;
         gap: 15px;
-        
-
-         .item-resto {
+             .item-resto {
+            text-decoration: none;
+            color: black;
             position: relative;
             display: flex;
             height: 200px;
